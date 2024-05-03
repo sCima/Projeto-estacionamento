@@ -1,0 +1,52 @@
+Pesquisa de Softwares de informatização de estacionamento e seus recursos disponíveis. 
+
+	 
+
+Há diversos softwares de estacionamento sendo os principais: Nepos, ABCPark, Parkeer, Estacionamento Digital, Easy Park. Cada uma delas tem sistemas únicos, a implementação de métodos é de grande ajuda para a organização do estacionamento e a experiência do cliente e do funcionário 
+
+ 
+
+Parkeer é um software para estacionamentos que é responsável pelo controle operacional do estacionamento de forma rápida e com muita rapidez e segurança. Possui diversas soluções que vão melhorar a rotina como: 
+
+- Tarifação inteligente; 
+- Planos mensais; 
+- Parcerias com convênios; 
+- Acompanhamento do caixa; 
+- Criação de anotações/lembretes; 
+
+ 
+
+Easy Parker -  
+- Controle de entrada e saída dos veículos; 
+
+- aplicativo que mostra as vagas disponíveis; 
+
+- Controle do preço por tipos de veículos e horários; 
+
+	 
+
+ABC Parker -  
+
+- Controle de rotativos/horistas; 
+- Extremamente flexível, permitindo convênios e até condições especiais de preço; 
+- Diferentes níveis de permissão de uso, dando maior segurança; 
+- Impressão de cupons de entrada e saída com código de barras; 
+- Gestão simples e eficiente do caixa; 
+
+ 
+
+Na nossa solução desses recursos pretendemos utilizar: 
+ 
+- Impressão de cupons de entrada e saída; 
+- Aplicativo/painel que mostra as vagas disponíveis; 
+- Controle de preço pelo tipo de veículo e hora; 
+- Controle de rotativos/horistas 
+- Diversos métodos de pagamento: expansão nos métodos de pagamento
+- Tarifação inteligente: cobrança automática 
+- Convênios 
+- Sistema de LPR; sistema de reconhecimento de placa através de câmeras
+ 
+
+ 
+
+Bibliografia: https://www.celcoin.com.br/news/sistema-para-estacionamentos-conheca-os-10-melhores/?bot_cel_cash=1 

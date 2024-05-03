@@ -1,0 +1,35 @@
+1. Pergunta: Como você classificaria a importância da segurança de um estacionamento?
+	Resposta: A segurança é fundamental e que haja câmeras de vigilância e uma equipe de segurança ativa.
+
+2. Pergunta: Quais métodos de pagamento você considera essenciais para um estacionamento?
+	Resposta: Considero essencial várias opções, como cartão de crédito/débito, PIX, por aplicativo e tag de pedágio
+
+3. Pergunta: Você valoriza a existência de um sistema de fidelidade ou descontos para clientes frequentes?
+	Resposta: Sim, isso incentivaria o uso do estacionamento regularmente.
+
+4. Pergunta: Qual a importância de um aplicativo móvel para serviços de estacionamento?
+	Resposta: Um aplicativo é importante, com a possibilidade de reservar vagas e pagar pelo celular.
+
+5. Pergunta: Como você se sente em relação ao uso de tecnologia para reconhecimento automático de placas (LPR)?
+	Resposta: Agilizaria muito o processo de entrada e saída e evitaria tráfego desnecessário.
+
+6. Pergunta: Você acha necessário um sistema que mostra a localização das vagas disponíveis em tempo real?
+	Resposta: Com certeza! Isso economizaria muito tempo e reduzuria o estresse de procurar uma vaga disponível.
+
+7. Pergunta: Você considera importante ter pontos de recarga para veículos elétricos no estacionamento?
+	Resposta: Sim, carros elétricos são uma tendência e seria um grande diferencial para o estacionamento.
+
+8. Pergunta: Você acha que o estacionamento deve oferecer serviços adicionais como lavagem de carros?
+	Resposta: Seria conveniente, especialmente se eu pudesse pagar, solicitar e acompanhar este serviço através do
+	aplicativo.
+
+9. Pergunta: Qual sua opinião sobre a integração do estacionamento com outros serviços de mobilidade urbana?
+	Resposta: A integração seria ótima, facilitaria o planejamento de viagem com outros meios de transporte e seria
+	um diferencial muito bom.
+
+10. Pergunta: Você gostaria de ter acesso a relatórios ou históricos de uso do estacionamento?
+	Resposta: Sim, isso ajudaria no controle de gastos e outras questões de qualidade de vida.
+
+11. Pergunta: Para você, qual a importância de um estacionamento coberto?
+	Resposta: Um estacionamento coberto seria muito conveniente e com certeza eu optaria por um local coberto para
+	estacionar meu veículo. 
